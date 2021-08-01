@@ -1,0 +1,3 @@
+In Python you can read files from your local machine.
+In Python you can import modules developed by other programmers.
+In Python you can analyze data to predict outcomes.
