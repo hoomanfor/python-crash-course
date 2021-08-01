@@ -2,6 +2,7 @@
   "python.pythonPath": "/usr/local/bin/python3",
   "python.analysis.extraPaths": [
     "./08-functions/8-15_printing_models",
-    "./08-functions/8-16_imports"
+    "./08-functions/8-16_imports",
+    "./11-testing-your-code/11-3_employee"
   ]
 }
